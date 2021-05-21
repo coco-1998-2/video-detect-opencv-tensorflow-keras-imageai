@@ -1,6 +1,6 @@
 #pip install -r requirements.txt
 #C:\Users\IotLab\.conda\envs\Python36+Tensorflow15
-tensorflow==1.15.4
+tensorflow==2.5.0
 keras
 opencv-python
 imageai
